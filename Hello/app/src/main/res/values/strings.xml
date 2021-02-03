@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="add_data">Add Data</string>
+    <string name="prenom">Prenom :</string>
+    <string name="nom">Nom :</string>
+    <string name="tapez_votre_prenom_ici">Tapez votre prenom ici</string>
+    <string name="tapez_votre_nom_ici">Tapez votre nom ici</string>
+    <string name="view_all">View All</string>
+</resources>
